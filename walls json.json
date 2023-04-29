@@ -1,0 +1,36 @@
+{
+    "Ads": {
+       
+	   "show_ads": false,
+      
+	  "bannerAd": "xxxxxxxxx",
+        "InterAd": "xxxxxxxxx",
+        "NativeAd": "xxxxxxxxx",
+        
+		"admob_banner": "xxxxxxxxx",
+        "admob_inter": "xxxxxxxxx",
+        "admob_native": "xxxxxxxxx",
+      
+	  "facebook_banner": "xxxxxxxxx",
+        "facebook_inter": "xxxxxxxxx",
+        "facebook_native": "xxxxxxxxx",
+       
+	   "max_banner": "xxxxxxxxx",
+        "max_inter": "xxxxxxxxx",
+        "max_native": "xxxxxxxxx",
+		
+		"ironsource_api": "xxxxxxxxx",
+		
+		"unityTest": true,
+        "unityGameID": "xxxxxxxxx",
+        "unityBanner": "xxxxxxxxx",
+        "unityInter": "xxxxxxxxx",
+		
+        "intersitial_click_activites": 2,
+		"intersitial_click_list": 3,
+		
+		
+        "ONESIGNAL_APP_ID": "xxxxxxxx"
+
+    }
+}
